@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>室内设计</title>
+      <link href="/2024/02/16/%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1/"/>
+      <url>/2024/02/16/%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="CAD-操作"><a href="#CAD-操作" class="headerlink" title="CAD 操作"></a>CAD 操作</h1><h3 id="快捷键"><a href="#快捷键" class="headerlink" title="快捷键"></a>快捷键</h3><table><thead><tr><th>名称</th><th>按键</th><th>名称</th><th>按键</th></tr></thead><tbody><tr><td>直线命令</td><td>L</td><td></td><td></td></tr><tr><td>无线延长线（构造线）</td><td>XL</td><td></td><td></td></tr><tr><td>偏移</td><td>O</td><td></td><td></td></tr><tr><td>移动</td><td>M</td><td>复制</td><td>CO</td></tr><tr><td>样条曲线</td><td>SPL</td><td></td><td></td></tr><tr><td>镜像</td><td>MI</td><td></td><td></td></tr><tr><td>圆弧</td><td>A</td><td>圆</td><td>C</td></tr><tr><td>椭圆</td><td>EL</td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> CAD 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexo操作</title>
       <link href="/2024/02/14/hexo%E6%93%8D%E4%BD%9C/"/>
       <url>/2024/02/14/hexo%E6%93%8D%E4%BD%9C/</url>
@@ -27,7 +46,7 @@
       <link href="/2024/02/13/%E7%94%B5%E8%84%91%E9%85%8D%E7%BD%AE/"/>
       <url>/2024/02/13/%E7%94%B5%E8%84%91%E9%85%8D%E7%BD%AE/</url>
       
-        <content type="html"><![CDATA[<h1 id="怎么收集并配置一台合适自己的主机"><a href="#怎么收集并配置一台合适自己的主机" class="headerlink" title="怎么收集并配置一台合适自己的主机"></a>怎么收集并配置一台合适自己的主机</h1><p>首先确定你的需求是什么，然后有多少预算。</p><ul><li>列如我的需求是凑打游戏的<br>先确定 CPU 是什么，这边推荐看 CPU 天梯图<br> &gt; <a href="https://www.365pcbuy.com/article-411.html">https://www.365pcbuy.com/article-411.html</a><br><br>根据预算选择合适的 CPU，英特尔和 AMD 其实差别不大，选择一个合适的、价格便宜的就行了（小声 bb：过段时间出个 电脑各个配件的介绍）<br>主板一般都是按针脚来配的，网上能搜到假如 5800x 应该配什么主板，会出来几个主板。<br>…</li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="怎么收集并配置一台合适自己的主机"><a href="#怎么收集并配置一台合适自己的主机" class="headerlink" title="怎么收集并配置一台合适自己的主机"></a>怎么收集并配置一台合适自己的主机</h1><h3 id="一台电脑（这里指主机）有-CPU，主板，显卡，内存，硬盘，电源，cpu-散热器-最后是机箱。"><a href="#一台电脑（这里指主机）有-CPU，主板，显卡，内存，硬盘，电源，cpu-散热器-最后是机箱。" class="headerlink" title="一台电脑（这里指主机）有 CPU，主板，显卡，内存，硬盘，电源，cpu 散热器,最后是机箱。"></a>一台电脑（这里指主机）有 CPU，主板，显卡，内存，硬盘，电源，cpu 散热器,最后是机箱。</h3><p>首先确定你的需求是什么，然后有多少预算。</p><ul><li>列如我的需求是凑打游戏的<br>先确定 CPU 是什么，这边推荐看 CPU 天梯图<br><blockquote><p><a href="https://www.365pcbuy.com/article-411.html">https://www.365pcbuy.com/article-411.html</a></p></blockquote></li><li>显卡和上面同理<blockquote><p><a href="https://www.365pcbuy.com/article.php?id=398">https://www.365pcbuy.com/article.php?id=398</a></p></blockquote></li></ul><p>根据预算选择合适的 CPU，英特尔和 AMD 其实差别不大，选择一个合适的、价格便宜的就行了（小声 bb：过段时间出个 电脑各个配件的介绍）</p><p>到这里一台电脑的核心就差不多选择完毕了，<br>剩下的不过是附件一类的，扣除了二个关键的硬件的钱之后平衡的选择其他硬件。</p>]]></content>
       
       
       
